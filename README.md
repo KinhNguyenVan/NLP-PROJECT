@@ -44,10 +44,6 @@ The models were trained and evaluated on the UIT-VSFC dataset. Below are the per
 | Precision   | 0.80 | 0.77  |
 | Recall      | 0.71 | 0.70  |
 
-#### Visualization:
-The following graph illustrates the comparison of performance metrics between BERT and XLNet models:
-
-![Performance on UIT-VSFC Dataset](results_graph.png)
 
 ---
 
