@@ -55,7 +55,13 @@ The following graph illustrates the comparison of performance metrics between BE
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/KinhNguyenVan/NLP-PROJECT)
+   git clone https://github.com/KinhNguyenVan/NLP-PROJECT
+   ```
+2. Install the dependencies:
+   ```bash
    pip install -r requirements.txt
+   ```
+3. Run the main script:
+   ```bash
    python src/main.py
    ```
